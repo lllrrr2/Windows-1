@@ -328,7 +328,7 @@
 ## Windows Server
 
 <details>
-<summary><b>Server 2008 R2 | Standard</b> - Chinese (Simplified) (3.2GB)</summary>
+<summary><b>Windows Server 2008 R2</b> - Chinese (Simplified) (3.2GB)</summary>
 
 | Item | Details |
 |------|---------|
@@ -344,7 +344,7 @@
 </details>
 
 <details>
-<summary><b>Server 2012 R2 | Standard</b> - Chinese (Simplified) (5.2GB)</summary>
+<summary><b>Windows Server 2012 R2</b> - Chinese (Simplified) (5.2GB)</summary>
 
 | Item | Details |
 |------|---------|
@@ -360,7 +360,7 @@
 </details>
 
 <details>
-<summary><b>Server 2016 | Standard</b> - Chinese (Simplified) (5.9GB)</summary>
+<summary><b>Windows Server 2016</b> - Chinese (Simplified) (5.9GB)</summary>
 
 | Item | Details |
 |------|---------|
@@ -376,7 +376,7 @@
 </details>
 
 <details>
-<summary><b>Server 2019 | Standard</b> - Chinese (Simplified) (5.5GB)</summary>
+<summary><b>Windows Server 2019</b> - Chinese (Simplified) (5.5GB)</summary>
 
 | Item | Details |
 |------|---------|
@@ -392,7 +392,7 @@
 </details>
 
 <details>
-<summary><b>Server 2019 | Standard</b> - English (5.3GB)</summary>
+<summary><b>Windows Server 2019</b> - English (5.3GB)</summary>
 
 | Item | Details |
 |------|---------|
@@ -408,7 +408,7 @@
 </details>
 
 <details>
-<summary><b>Server 2022 | Standard (Updated May 2026)</b> - Chinese (Simplified) (6.2GB)</summary>
+<summary><b>Windows Server 2022 (Updated May 2026)</b> - Chinese (Simplified) (6.2GB)</summary>
 
 | Item | Details |
 |------|---------|
@@ -425,7 +425,7 @@
 </details>
 
 <details>
-<summary><b>Server 2022 | Standard (Updated May 2026)</b> - English (6.1GB)</summary>
+<summary><b>Windows Server 2022 (Updated May 2026)</b> - English (6.1GB)</summary>
 
 | Item | Details |
 |------|---------|
@@ -442,7 +442,7 @@
 </details>
 
 <details>
-<summary><b>Server 2025 | Standard (Updated May 2026)</b> - Chinese (Simplified) (8.2GB)</summary>
+<summary><b>Windows Server 2025 (Updated May 2026)</b> - Chinese (Simplified) (8.2GB)</summary>
 
 | Item | Details |
 |------|---------|
@@ -459,7 +459,7 @@
 </details>
 
 <details>
-<summary><b>Server 2025 | Standard (Updated May 2026)</b> - English (7.9GB)</summary>
+<summary><b>Windows Server 2025 (Updated May 2026)</b> - English (7.9GB)</summary>
 
 | Item | Details |
 |------|---------|
